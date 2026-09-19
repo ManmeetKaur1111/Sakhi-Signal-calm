@@ -1,0 +1,6 @@
+{
+  "name": "SakhiSignal Calm Care",
+  "description": "Empathetic, trauma-informed digital healthcare companion providing symptom analysis, adaptive triage, confidential safety checks, doctor note generation, and communication guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
